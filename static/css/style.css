@@ -1,0 +1,42 @@
+body {
+    background-color: #0b0b0b !important;
+    color: #e5e5e5;
+}
+
+/* Заголовок */
+.hero h1 {
+    color: #b30000;
+    font-size: 42px;
+}
+
+.subtitle {
+    color: #aaa;
+}
+
+/* Карточки */
+.card-custom {
+    background-color: #121212;
+    border: 1px solid #2a0000;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    transition: 0.3s;
+}
+
+.card-custom:hover {
+    border-color: #ff0000;
+    box-shadow: 0 0 10px rgba(255, 0, 0, 0.4);
+}
+
+h2 {
+    color: #ff2a2a;
+}
+
+/* Список */
+ul {
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 8px;
+}
